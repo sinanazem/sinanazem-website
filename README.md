@@ -1,5 +1,5 @@
 # Sina Nazem - Personal Website
-
+<img src="https://www.bootstrapdash.com/wp-content/uploads/2019/08/Personal-Portfolio-website-templates.png"><br>
 ## Overview
 
 Welcome to the repository for my personal website, [sinanazem.com](https://sinanazem.com). This project is built using Django for the backend, JavaScript for interactivity, and Bootstrap for styling.
