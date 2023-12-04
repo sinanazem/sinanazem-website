@@ -1,7 +1,5 @@
 # Sina Nazem - Personal Website
 
-![Website Preview](screenshot.png)
-
 ## Overview
 
 Welcome to the repository for my personal website, [sinanazem.com](https://sinanazem.com). This project is built using Django for the backend, JavaScript for interactivity, and Bootstrap for styling.
