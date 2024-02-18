@@ -28,7 +28,7 @@ Welcome to the repository for my personal website, [sinanazem.com](https://sinan
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/sinanazem-website.git
+    git clone https://github.com/sinanazem/sinanazem-website.git
     ```
 
 2. Navigate to the project directory:
@@ -94,8 +94,6 @@ Welcome to the repository for my personal website, [sinanazem.com](https://sinan
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
 
 - Special thanks to the Django, JavaScript, and Bootstrap communities for their excellent documentation and support.
 
