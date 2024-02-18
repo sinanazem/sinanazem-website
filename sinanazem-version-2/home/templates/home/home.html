@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}
+Home
+{% endblock %}
+
+{% block content %}
+<style>
+  .img-circle {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+</style>
+
+<div class="container mt-4">
+  <div class="row align-items-center ">
+    <div class="col-md-6">
+      <div class="display-4 mb-4"> Hi, I am <span class="text-warning"> Sina Nazem </span> </div>
+      <p class="lead mb-4 ">
+        I am an ML scientist working on the frontier of research & business.<br>
+        This website hosts my ML blog, portfolio, and more of my work. All opinions are my own.<br><br>
+        Check out my CV and other pages:<br><br>
+        🗣 public talks from AI meetups and conferences<br>
+        📚 scientific publications with abstracts and PDFs<br>
+        📁 portfolio with my ML projects in different domains
+      </p><br>
+      <a href="" class="btn btn-primary"> Join Asama Group</a>
+    </div>
+    
+    <div class="col-md-6">
+      <div class="img-circle">
+        <img src="https://media.licdn.com/dms/image/D4E03AQE24CQG_L-JNQ/profile-displayphoto-shrink_800_800/0/1673714315925?e=2147483647&v=beta&t=wFIbfcWvzASwQhsgsc9t0uYYRbCHFDvJWMwdOxkPCyc" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
